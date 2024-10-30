@@ -67,7 +67,7 @@ Function  `sms_classification` returns **fitted `Pipeline` model** (`text_clf`) 
 
 <figure>
     <figcaption><em>Pipeline</em></figcaption>
-    <img src="images/pipeline.png" height="160"
+    <img src="images/pipeline.png" height="120"
          alt="pipeline.png">
 </figure>
 
@@ -103,6 +103,6 @@ Below are samples of Spam and Non-Spam detections, that include emojis and slang
 
 * Add more additional pre-processing to handle special characters and emojis.
 * Possible exploration of other algorithms like Naive Bayes or Random Forest for text classification.
-* Expanding the model to handle more complex spam detection tasks, such as detecting phishing attempts.
-* Applying hyperparameter tuning to optimize the performance of the classifier.
+* Expand the model to handle more complex spam detection tasks, such as detecting phishing attempts.
+* Apply hyperparameter tuning to optimize the performance of the classifier.
 * Explore additional deep learning methods for text classification.
