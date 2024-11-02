@@ -1,6 +1,6 @@
 # **SMS Spam Detection with TF-IDF and Support Vector Machine (SVM)**
 
-This project focuses detecting spam SMS messages by building a machine learning pipeline, using **TF-IDF Vectorization** and **Support Vector Machine (SVM)** classifier to differentiate between spam and non-spam (ham) messages.
+This project uses a machine learning pipeline with **TF-IDF Vectorization** and a **Support Vector Machine (SVM)** classifier to differentiate between spam and non-spam (ham) messages.
 
 The project demonstrates how to preprocess SMS data, build an SMS classification model, and deploy a Gradio interface for real-time SMS spam detection.
 
