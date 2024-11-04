@@ -18,19 +18,19 @@ Created a machine learning pipeline to classify SMS messages as spam or not spam
 
 <figure>
     <figcaption><em>Spam.</em></figcaption>
-    <img src="images/1730317667317.png" height="260"
+    <img src="images/1730317667317.png" width="800"
          alt="1730317667317.png">
 </figure
 
 <figure>
     <figcaption><em>Not Spam.</em></figcaption>
-    <img src="images/1730317751621.png" height="260"
+    <img src="images/1730317751621.png" width="800"
          alt="1730317751621.png">
 </figure>
 
 <figure>
     <figcaption><em>Gradio.</em></figcaption>
-    <img src="images/1730317799244.png" height="60"
+    <img src="images/1730317799244.png" height="50"
          alt="1730317799244.png">
 </figure
 
